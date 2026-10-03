@@ -61,7 +61,7 @@ Run the application:
 
 python -m streamlit run app.py
 
-Example:
+## Example:
 The tool can identify potential indicators such as:
 
 Urgent language
@@ -71,7 +71,7 @@ Impersonation
 Fear-based language
 Social engineering
 
-Disclaimer:
+## Disclaimer:
 
 This project provides an AI-assisted assessment.
 
