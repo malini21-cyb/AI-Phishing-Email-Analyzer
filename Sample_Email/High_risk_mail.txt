@@ -1,0 +1,17 @@
+From: Security Team <security@example.com>
+
+Subject: URGENT - Account Suspension
+
+Dear Customer,
+
+We detected unusual activity on your account.
+
+Your account will be permanently suspended within 24 hours.
+
+Click here immediately to verify your identity:
+http://example.com/verify
+
+Please provide your username and password.
+
+Thank you,
+Security Team
